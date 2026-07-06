@@ -1,0 +1,101 @@
+Vendor_ID,Vendor_Name,Category,Contact_Email,Contact_Phone,Vendor_Rating,Total_Reviews,Defect_Rate_Pct,Leads_Received,Govt_Order_Badge
+V001,Coimbatore Cotton Mills,Textiles,NO_EMAIL,919942992828,5.0,2,0.0,1,False
+V002,Kutch Handicrafts,Handicrafts,NO_EMAIL,919942992828,4.85,2,1.5,0,True
+V003,Binola Stamping Works,Auto Parts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V004,Moradabad Brass Works,Handicrafts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V005,Wayanad Pepper Co,Spices,NO_EMAIL,919942992828,5.0,0,0.0,1,False
+V006,Rogan Art Studio,Handicrafts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V007,Surat Fabric House,Textiles,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V008,Chanderi Fabric Works,Textiles,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V009,Faridabad Metal Works,Auto Parts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V010,Latur Agro Produce,Agriculture,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V011,Jamnagar Tie-Dye Works,Textiles,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V012,Bhagalpur Silk Mills,Textiles,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V013,Akola Farm Produce,Agriculture,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V014,Nagpur Spice Depot,Spices,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V015,Bikaner Desert Farms,Agriculture,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V016,Indore Agro Hub,Agriculture,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V017,Rajkot Masala Mills,Spices,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V018,Sikar Mustard Traders,Agriculture,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V019,Erode Turmeric Traders,Spices,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V020,Sriperumbudur Auto Tech,Auto Parts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V021,Tirunelveli Pepper Traders,Spices,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V022,Coimbatore Machining Works,Auto Parts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V023,Tanjore Art Gallery,Handicrafts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V024,Palakkad Spice Garden,Spices,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V025,Kolhapur Agri Works,Agriculture,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V026,Sanand Auto Supply,Auto Parts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V027,Nathdwara Miniature Arts,Handicrafts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V028,Coorg Cardamom Traders,Spices,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V029,Ludhiana Hosiery Mills,Textiles,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V030,Munnar Spice Valley,Spices,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V031,Pune Precision Parts,Auto Parts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V032,Rajkot Groundnut Traders,Agriculture,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V033,Aurangabad Auto Forge,Auto Parts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V034,Alappuzha Spice Wharf,Spices,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V035,Kerala Spice Traders,Spices,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V036,Nizamabad Rice Traders,Agriculture,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V037,Vellore Masala House,Spices,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V038,Pochampally Ikat Textiles,Textiles,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V039,Pithampur Components Co,Auto Parts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V040,Guntur Chilli Exports,Spices,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V041,Solapur Terry Mills,Textiles,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V042,Maheshwar Handloom Co,Textiles,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V043,Murshidabad Agri Depot,Agriculture,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V044,Hosur Engine Parts,Auto Parts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V045,Varanasi Silk Crafts,Handicrafts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V046,Tirupur Knitwear,Textiles,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V047,Gujarat Auto Works,Auto Parts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V048,Hooghly Jute Works,Agriculture,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V049,Sanganer Block Print,Textiles,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V050,Idukki Hill Spices,Spices,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V051,Salem Yarn Industries,Textiles,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V052,Chennai Auto Components,Auto Parts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V053,Ramnad Masala Works,Spices,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V054,Rewari Auto Cast,Auto Parts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V055,Amravati Cotton Agro,Agriculture,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V056,Rajasthan Artisans,Handicrafts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V057,Sirsi Forest Spices,Spices,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V058,Kota Soybean Traders,Agriculture,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V059,Halol Parts Depot,Auto Parts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V060,Kutch Bandhani House,Textiles,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V061,Sangli Haldi Exports,Spices,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V062,Cauvery Handicrafts,Handicrafts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V063,Erode Saree Traders,Textiles,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V064,Kundli Auto Fabricators,Auto Parts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V065,Nashik Auto Ancillaries,Auto Parts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V066,Pipli Applique Works,Handicrafts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V067,Nirmal Paintings Studio,Handicrafts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V068,Thrissur Spice Works,Spices,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V069,Thanjavur Paddy Traders,Agriculture,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V070,Haryana Grain Depot,Agriculture,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V071,Karur Home Textiles,Textiles,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V072,Nasik Onion Exports,Agriculture,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V073,Bawal Precision Auto,Auto Parts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V074,Pattamadai Mat Weavers,Handicrafts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V075,Punjab Agro Traders,Agriculture,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V076,Rajkot Casting Works,Auto Parts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V077,Panipat Loom Industries,Textiles,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V078,Kumily Aroma Spices,Spices,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V079,Manesar Auto Hub,Auto Parts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V080,Kanchipuram Silk Weavers,Textiles,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V081,Ludhiana Auto Traders,Auto Parts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V082,Dharuhera Forging Co,Auto Parts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V083,Channapatna Lacware,Handicrafts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V084,Saharanpur Wood Crafts,Handicrafts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V085,Nanded Pulse Traders,Agriculture,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V086,Ichalkaranji Weaving Co,Textiles,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V087,Etikoppaka Craft Co,Handicrafts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V088,Vizag Rice Mills,Agriculture,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V089,Lepakshi Craft Emporium,Handicrafts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V090,Anand Dairy Agro,Agriculture,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V091,Jaipur Craft House,Handicrafts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V092,Bidriware Metal Crafts,Handicrafts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V093,Jodhpur Stone Art,Handicrafts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V094,Guntur Agri Exports,Agriculture,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V095,Bhiwandi Textile Works,Textiles,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V096,Dokra Tribal Art,Handicrafts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V097,Sharma Spices,Spices,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V098,Balotra Print Fabrics,Textiles,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V099,Unjha Spice Hub,Spices,NO_EMAIL,919942992828,5.0,0,0.0,0,False
+V100,Kondapalli Toy Works,Handicrafts,NO_EMAIL,919942992828,5.0,0,0.0,0,False
