@@ -1,10 +1,9 @@
-# 🌍 IndiaExportConnect: AI-Driven MSME Export Lead Matchmaker
+# 🌍 AI-Driven MSME Export Lead Matchmaker
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.11+-blue)
 ![React](https://img.shields.io/badge/React-Vite-61DAFB?logo=react)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
