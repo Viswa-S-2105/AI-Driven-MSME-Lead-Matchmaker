@@ -293,4 +293,3 @@ AI-Driven-MSME-Lead-Matchmaker
 - Integrate PostgreSQL instead of CSV storage.
 - Add multilingual NLP support.
 - Cloud deployment on AWS or Azure.
-- Upgrade to production Twilio messaging for full Unicode SMS support.
